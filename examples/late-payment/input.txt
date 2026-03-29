@@ -1,0 +1,1 @@
+A late payment agreement between ClientCo and VendorCo for 12 months with a penalty rate.
